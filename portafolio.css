@@ -116,3 +116,44 @@
     height: 100%;
     padding: 15px;
 }
+
+
+/* contacto */
+#ccc {
+    text-align: center;
+    border: 20px white solid;
+    border-radius: 90px;
+    background: rgb(255, 255, 255);
+}
+
+.contac {
+    width: 60%;
+    height: 380px;
+    margin: 5% 20% 5% 20%;
+}
+
+.contac .aaa{
+    width: 100%;
+    font-size: 1.4rem;
+    height: 100%;
+}
+
+
+footer{
+
+    background: #A950A1;
+    height: 75px;
+    width: 100%;
+
+}
+
+.final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.final a{
+    padding: 0 10px;
+}
