@@ -95,3 +95,24 @@
     padding: 15px;
     font-family: serif;
 }
+
+/* conocimientos */
+#mmm {
+    text-align: center;
+    border: 15px white solid;
+    border-radius: 90px;
+    background: rgb(255, 255, 255);
+
+}
+.conoci {
+    width: 60%;
+    height: 550px;
+    margin: 5% 20% 0% 20%;
+}
+
+.conoci .ttt{
+    width: 100%;
+    font-size: 1.8rem;
+    height: 100%;
+    padding: 15px;
+}
