@@ -70,3 +70,28 @@
 .arg img{
     border-radius: 50px;
 }
+
+
+/* sobre mi */
+#mi {
+    text-align: center;
+    border: 25px white solid;
+    border-radius: 90px;
+    background: rgb(255, 255, 255);
+}
+.texto1 {
+    width: 60%;
+    height: 250px;
+    margin: 5% 20% 0% 20%;
+}
+
+.texto1 .pingo{
+    width: 100%;
+    font-size: 1.4rem;
+    height: 100%;
+}
+
+#letras{
+    padding: 15px;
+    font-family: serif;
+}
