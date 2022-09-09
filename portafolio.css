@@ -20,3 +20,34 @@
     50%{background-position: 100% 50%;}
     100%{background-position: 0% 50%;}
 } 
+
+
+/* primera parte */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    align-items: center;
+    background-color: #A950A1;
+ } 
+
+.menu a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: .5rem;
+    padding: 30px;
+    cursor: pointer;
+}
+
+.menu {
+    color: rgb(197, 115, 7);
+    text-decoration: none;
+    border-radius: .5rem;
+    padding: 5px;
+    transition: ease-in .3s;
+}
+
+.menu a:hover{
+    background-color:#2F3F80;
+    color: black;
+}
